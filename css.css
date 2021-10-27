@@ -1082,7 +1082,9 @@
 }
 
 .moneys[data-v-f5cca8b8] {
-	display: flex
+	display: flex;
+	right: 23rem;
+	position: absolute;
 }
 
 .auth-user[data-v-f5cca8b8] {
